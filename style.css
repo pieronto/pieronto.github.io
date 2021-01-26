@@ -1,0 +1,117 @@
+		body{
+			background-color:rgb(0,20,30);
+			color:rgb(190,190,190);
+			font-family: arial;
+		}
+
+		a:link{
+			color:#0099cc;
+		}
+		
+		a:visited{
+			/*color: #4dd2ff;*/
+			color:#0099cc;
+		}
+		
+		a:hover{
+			color: lightgreen;
+		}
+
+		.menu{
+				border: 100px;
+				height: 150px;
+				margin-left: auto;
+				margin-right: auto;
+  				text-align: center;
+  				padding: 5px;
+  				font-size: 1.2em;
+  				
+		}
+
+		.titre{
+
+				height:110px; /* Hauteur du bloc */
+				margin-left:auto;
+				margin-right:auto;
+				padding:5px; /* Marges intérieures */
+				text-align: center;
+		}
+
+		.presentation{
+
+				height:auto; /* Hauteur du bloc */
+				margin-left:20%;
+				margin-right:20%;
+				padding:5px; /* Marges intérieures */
+				text-align: justify;
+				line-height: 1.4em;
+		}
+
+		.sous-parties{
+
+				height:100px; /* Hauteur du bloc */
+				margin-left:auto;
+				margin-right:auto;					
+				padding-top: 70px;
+				text-align: justify;	
+		}			
+
+		.bloc{
+				height:auto;
+				padding-top: 40px;
+				margin-left:auto;
+				margin-right:auto;
+				text-align: justify;
+				line-height: 1.4em;
+			}
+
+		.date-publi{
+				height:0.7em;
+				margin-left:20%;
+				text-align: justify;
+				font-size: 0.8em;
+		}
+
+		.light-mode{
+  				background-color: white;
+  				color: black;
+		}
+
+		#light {
+				font-size: 1em; /* Increase font size */
+  				position: fixed; /* Fixed/sticky position */
+			  	top: 25px; /* Place the button at the bottom of the page */
+				right: 30px; /* Place the button 30px from the right */
+				z-index: 99; /* Make sure it does not overlap */
+				border: none; /* Remove borders */
+				outline: none; /* Remove outline */
+				background-color: rgb(0,20,30); /* Set a background color */
+				color: black; /* Text color */
+				cursor: pointer; /* Add a mouse pointer on hover */
+				padding: 10px; /* Some padding */
+				border-radius: 10px; /* Rounded corners */
+		}
+
+		#light:hover {
+ 				background-color: lightgreen; /* Add a dark-grey background on hover */
+		}
+
+		#myBtn {
+  				font-size: 2em; /* Increase font size */
+  				position: fixed; /* Fixed/sticky position */
+			  	bottom: 20px; /* Place the button at the bottom of the page */
+				right: 30px; /* Place the button 30px from the right */
+				z-index: 99; /* Make sure it does not overlap */
+				border: none; /* Remove borders */
+				outline: none; /* Remove outline */
+				background-color: rgb(0,20,30); /* Set a background color */
+				color: black; /* Text color */
+				cursor: pointer; /* Add a mouse pointer on hover */
+				padding: 3px; /* Some padding */
+				border-radius: 10px; /* Rounded corners */
+				
+		}
+
+		#myBtn:hover {
+ 				background-color: lightgreen; /* Add a dark-grey background on hover */
+		}
