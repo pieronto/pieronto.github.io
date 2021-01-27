@@ -3,9 +3,11 @@
   --link-color: #0099cc;
   --link-color-hover: lightgreen;
   --dark-bg: rgb(0, 20, 30);
-  --dark-color:rgb(190, 190, 190);
+  --dark-color: rgb(190, 190, 190);
   --light-bg: white;
-  --light-color:rgb(0, 20, 30);
+  --light-color: rgb(0, 20, 30);
+
+  --quote-thickness : 3px;
 }
 
 .ilone-dark {
@@ -29,22 +31,57 @@ a:hover {
   color: var(--link-color-hover);
 }
 
-.custom-nav a {
+.custom-nav .nav-link {
   text-decoration: underline;
-  font-size: 1.2rem;
-  padding-left: .2rem;
+  font-size: 1rem;
+  padding-left: 0.1rem;
   display: inline-block;
 }
-
 .custom-nav .nav-item {
-  margin: .8rem;
+  margin: 0.5rem;
 }
 
 .fw-midbold {
   font-weight: 600;
 }
 
-
-h2, h3 {
+h2,
+h3 {
   margin-top: 3rem;
+}
+
+.go-top {
+  transform: translateY(+60px);
+  transition: transform .2s ease-in-out;
+}
+
+.go-top.show {
+  transform: translateY(0);
+}
+
+.header {
+  position: sticky;
+  top: 0;
+}
+
+.ilone-dark .header {
+  background-color: var(--dark-bg);
+  color: var(--dark-color);
+}
+
+.ilone-light .header{
+  background-color: var(--light-bg);
+  color: var(--light-color);
+}
+
+blockquote {
+  padding-left: 1rem;
+  font-style: italic;
+}
+
+.ilone-dark blockquote {
+  border-left: var(--dark-color) solid var(--quote-thickness);
+}
+.ilone-light blockquote {
+  border-left: var(--light-color) solid var(--quote-thickness);
 }
