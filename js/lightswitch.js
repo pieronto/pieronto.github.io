@@ -1,4 +1,5 @@
-const CLASS_NAME_LIGHT = "light";
+const CLASS_NAME_LIGHT = "ilone-light";
+const CLASS_NAME_DARK = "ilone-dark";
 const STORAGE_LIGHT_ITEM = "isLight";
 const lightswitch = document.querySelector('.lightswitch');
 const LIGHT_ICON = lightswitch.getAttribute('light-icon');
@@ -9,9 +10,11 @@ lightswitch.addEventListener("click", function (e) {
     const lightswitch = e.target;
     if (isLight) {
         document.body.classList.remove(CLASS_NAME_LIGHT);
+        document.body.classList.add(CLASS_NAME_DARK);
         lightswitch.innerHTML = DARK_ICON;
         localStorage.setItem(STORAGE_LIGHT_ITEM, "false");
     } else {
+        document.body.classList.remove(CLASS_NAME_DARK);
         document.body.classList.add(CLASS_NAME_LIGHT);
         lightswitch.innerHTML = LIGHT_ICON;
         localStorage.setItem(STORAGE_LIGHT_ITEM, "true");
