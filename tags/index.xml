@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Ilone Hayek : Blog, Reviews, Podcasts</title>
-    <link>https://pieronto.github.io/tags/</link>
+    <link>https://www.hayek.fr/tags/</link>
     <description>Recent content in Tags on Ilone Hayek : Blog, Reviews, Podcasts</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr</language><atom:link href="https://pieronto.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>fr</language><atom:link href="https://www.hayek.fr/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
