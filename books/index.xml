@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Bienvenue sur mon blog ! on Ilone Hayek : Blog, Reviews, Podcasts</title>
-    <link>https://ilone.hayek.fr/</link>
-    <description>Recent content in Bienvenue sur mon blog ! on Ilone Hayek : Blog, Reviews, Podcasts</description>
+    <title>Reviews des livres que j&#39;ai lu on Ilone Hayek : Blog, Reviews, Podcasts</title>
+    <link>https://ilone.hayek.fr/books/</link>
+    <description>Recent content in Reviews des livres que j&#39;ai lu on Ilone Hayek : Blog, Reviews, Podcasts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Wed, 27 Jan 2021 17:31:57 +0100</lastBuildDate><atom:link href="https://ilone.hayek.fr/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Jan 2021 17:31:57 +0100</lastBuildDate><atom:link href="https://ilone.hayek.fr/books/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Le Prophète de Khalil Gibran (1923)</title>
       <link>https://ilone.hayek.fr/books/le_prophete/</link>
@@ -34,16 +34,6 @@
       
       <guid>https://ilone.hayek.fr/books/anything_you_want/</guid>
       <description>🚀 Le livre en 3 phrases  Rechercher ce qui nous rend heureux Faire ce que l&amp;rsquo;on a envie de faire pour son propre plaisir Rendre service aux autres  🎨 Impressions J&amp;rsquo;ai adoré ce livre ! Le schéma de pensée de l&amp;rsquo;auteur me correspond tout à fait et je partage ses points de vue. C&amp;rsquo;est un livre très court et facile à lire. L&amp;rsquo;auteur semble être une personne humble malgré son succès et nous délivre de bons conseils.</description>
-    </item>
-    
-    <item>
-      <title>L&#39;Intelligence Artificielle</title>
-      <link>https://ilone.hayek.fr/articles/ia/</link>
-      <pubDate>Sun, 24 Jan 2021 17:07:00 +0100</pubDate>
-      
-      <guid>https://ilone.hayek.fr/articles/ia/</guid>
-      <description>Pour plus d&amp;rsquo;info sur le sujet vous pouvez aussi écouter mon podcast ici.
-L&amp;rsquo;IA ou Intelligence Artificielle est un mot que l&amp;rsquo;on entend de plus en plus au quotidien. Cette notion reste pourtant vague pour la plupart des gens. L&amp;rsquo;IA est ce terme qui revient dans presque chaque film de science-fiction catastrophe mais c&amp;rsquo;est en réalité bien plus que ça. De nombreuses IA sont déjà implémentées dans le monde actuel sans que l&amp;rsquo;on s&amp;rsquo;en rende toujours compte.</description>
     </item>
     
     <item>
