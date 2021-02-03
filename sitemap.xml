@@ -3,8 +3,63 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://ilone.hayek.fr/genres/aventure/</loc>
+    <lastmod>2021-02-03T21:26:05+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ilone.hayek.fr/</loc>
-    <lastmod>2021-01-27T17:31:57+01:00</lastmod>
+    <lastmod>2021-02-03T21:26:05+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ilone.hayek.fr/genres/</loc>
+    <lastmod>2021-02-03T21:26:05+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ilone.hayek.fr/films/</loc>
+    <lastmod>2021-02-03T21:26:05+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ilone.hayek.fr/films/the_revenant/</loc>
+    <lastmod>2021-02-03T21:26:05+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ilone.hayek.fr/genres/business/</loc>
+    <lastmod>2021-02-03T11:32:05+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ilone.hayek.fr/genres/cr%C3%A9ativit%C3%A9/</loc>
+    <lastmod>2021-02-03T11:32:05+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ilone.hayek.fr/genres/life-advice/</loc>
+    <lastmod>2021-02-03T11:32:05+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ilone.hayek.fr/books/</loc>
+    <lastmod>2021-02-03T11:32:05+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ilone.hayek.fr/books/show_your_work/</loc>
+    <lastmod>2021-02-03T11:32:05+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ilone.hayek.fr/genres/fantaisie/</loc>
+    <lastmod>2021-02-02T20:17:31+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ilone.hayek.fr/films/shining/</loc>
+    <lastmod>2021-02-02T20:17:31+01:00</lastmod>
   </url>
   
   <url>
@@ -13,7 +68,7 @@
   </url>
   
   <url>
-    <loc>https://ilone.hayek.fr/books/</loc>
+    <loc>https://ilone.hayek.fr/genres/philosophie/</loc>
     <lastmod>2021-01-27T17:31:57+01:00</lastmod>
   </url>
   
@@ -28,12 +83,27 @@
   </url>
   
   <url>
+    <loc>https://ilone.hayek.fr/genres/productivit%C3%A9/</loc>
+    <lastmod>2021-01-25T23:22:42+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ilone.hayek.fr/articles/</loc>
     <lastmod>2021-01-24T17:07:00+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://ilone.hayek.fr/articles/ia/</loc>
+    <lastmod>2021-01-24T17:07:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ilone.hayek.fr/genres/science/</loc>
+    <lastmod>2021-01-24T17:07:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ilone.hayek.fr/genres/technologie/</loc>
     <lastmod>2021-01-24T17:07:00+01:00</lastmod>
   </url>
   
@@ -49,10 +119,6 @@
   
   <url>
     <loc>https://ilone.hayek.fr/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ilone.hayek.fr/films/</loc>
   </url>
   
   <url>

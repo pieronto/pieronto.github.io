@@ -1,6 +1,6 @@
 /* Global styles */
 :root {
-  --link-color: #0099cc;
+  --link-color: #00bfff;
   --link-color-hover: lightgreen;
   --dark-bg: rgb(0, 20, 30);
   --dark-color: rgb(190, 190, 190);
@@ -88,4 +88,19 @@ blockquote {
 }
 .ilone-light blockquote {
   border-left: var(--light-color) solid var(--quote-thickness);
+}
+
+.bg-badge {
+  background-color: var(--link-color) !important;
+  /* color: var(--dark-color); */
+  transition: background-color .1s ease-in-out;
+}
+
+.bg-badge:hover{
+  background-color: lightgreen !important;
+}
+
+.bg-badge a {
+  text-decoration: none;
+  color: unset;
 }
