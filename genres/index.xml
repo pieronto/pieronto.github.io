@@ -6,7 +6,43 @@
     <description>Recent content in Genres on Ilone Hayek : Blog, Reviews, Podcasts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Wed, 03 Feb 2021 21:26:05 +0100</lastBuildDate><atom:link href="https://ilone.hayek.fr/genres/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 07 Feb 2021 12:29:45 +0100</lastBuildDate><atom:link href="https://ilone.hayek.fr/genres/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Philosophie</title>
+      <link>https://ilone.hayek.fr/genres/philosophie/</link>
+      <pubDate>Sun, 07 Feb 2021 12:29:45 +0100</pubDate>
+      
+      <guid>https://ilone.hayek.fr/genres/philosophie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ecriture</title>
+      <link>https://ilone.hayek.fr/genres/ecriture/</link>
+      <pubDate>Sat, 06 Feb 2021 17:33:17 +0100</pubDate>
+      
+      <guid>https://ilone.hayek.fr/genres/ecriture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Etudes</title>
+      <link>https://ilone.hayek.fr/genres/etudes/</link>
+      <pubDate>Sat, 06 Feb 2021 17:33:17 +0100</pubDate>
+      
+      <guid>https://ilone.hayek.fr/genres/etudes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Productivité</title>
+      <link>https://ilone.hayek.fr/genres/productivit%C3%A9/</link>
+      <pubDate>Sat, 06 Feb 2021 17:33:17 +0100</pubDate>
+      
+      <guid>https://ilone.hayek.fr/genres/productivit%C3%A9/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Aventure</title>
       <link>https://ilone.hayek.fr/genres/aventure/</link>
@@ -49,24 +85,6 @@
       <pubDate>Tue, 02 Feb 2021 20:17:31 +0100</pubDate>
       
       <guid>https://ilone.hayek.fr/genres/fantaisie/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Philosophie</title>
-      <link>https://ilone.hayek.fr/genres/philosophie/</link>
-      <pubDate>Wed, 27 Jan 2021 17:31:57 +0100</pubDate>
-      
-      <guid>https://ilone.hayek.fr/genres/philosophie/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Productivité</title>
-      <link>https://ilone.hayek.fr/genres/productivit%C3%A9/</link>
-      <pubDate>Mon, 25 Jan 2021 23:22:42 +0100</pubDate>
-      
-      <guid>https://ilone.hayek.fr/genres/productivit%C3%A9/</guid>
       <description></description>
     </item>
     
