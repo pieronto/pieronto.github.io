@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Roman on Ilone Hayek : Blog, Reviews, Podcasts</title>
+    <link>https://ilone.hayek.fr/genres/roman/</link>
+    <description>Recent content in Roman on Ilone Hayek : Blog, Reviews, Podcasts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Wed, 27 Jan 2021 17:32:05 +0100</lastBuildDate><atom:link href="https://ilone.hayek.fr/genres/roman/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Le Sorceleur (The Witcher)</title>
+      <link>https://ilone.hayek.fr/books/le_sorceleur/</link>
+      <pubDate>Wed, 27 Jan 2021 17:32:05 +0100</pubDate>
+      
+      <guid>https://ilone.hayek.fr/books/le_sorceleur/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
